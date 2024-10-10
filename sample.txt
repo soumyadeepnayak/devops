@@ -1,3 +1,6 @@
 hi 
 my name is soumyadeep nayak
 
+how are you?
+
+added a line after commit
